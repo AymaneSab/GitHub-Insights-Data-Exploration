@@ -1,5 +1,7 @@
 # GitHub Insights
 
+![Alt text](https://www.google.com/search?q=github&client=opera&hs=y82&sca_esv=583337381&tbm=isch&sxsrf=AM9HkKmiX5YBJcdLWPBvRlMuBkFGLGpr7g:1700227343189&source=lnms&sa=X&ved=2ahUKEwj9zM-2kMuCAxVyRKQEHbw0CVcQ_AUoAXoECAIQAw&biw=1678&bih=935&dpr=2#vhid=t7FP7wvEbzedrM&vssid=3981:5xzmyA1f8SH8qM)
+
 ## Project Overview
 
 GitHub Insights is a data collection project aimed at extracting valuable information from repositories hosted on GitHub. The primary objectives include gaining a deeper understanding of development trends, identifying prevalent programming languages, discovering interesting projects, tracking technological advancements, and exploring potential collaboration opportunities.
