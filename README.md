@@ -1,5 +1,7 @@
 # GitHub Insights
 
+![Alt text](https://www.zbw-mediatalk.eu/wp-content/uploads/2015/09/github-cover.jpg)
+
 ## Project Overview
 
 GitHub Insights is a data collection project aimed at extracting valuable information from repositories hosted on GitHub. The primary objectives include gaining a deeper understanding of development trends, identifying prevalent programming languages, discovering interesting projects, tracking technological advancements, and exploring potential collaboration opportunities.
