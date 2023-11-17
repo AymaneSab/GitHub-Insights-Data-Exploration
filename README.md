@@ -1,6 +1,6 @@
 # GitHub Insights
 
-![Alt text](https://cdn.thenewstack.io/media/2022/11/fb6f0845-github-lab.jpg)
+![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr5t1WJUATaTVR3FvcNqqeXYOhT1_kX7MZ1fGIDRlNtjLbxRGCrmkVXw_CN7ZkTDpoC9w&usqp=CAU)
 
 ## Project Overview
 
