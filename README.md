@@ -1,6 +1,6 @@
 # GitHub Insights
 
-![Alt text](https://www.google.com/search?q=github&client=opera&hs=y82&sca_esv=583337381&tbm=isch&sxsrf=AM9HkKmiX5YBJcdLWPBvRlMuBkFGLGpr7g:1700227343189&source=lnms&sa=X&ved=2ahUKEwj9zM-2kMuCAxVyRKQEHbw0CVcQ_AUoAXoECAIQAw&biw=1678&bih=935&dpr=2#vhid=t7FP7wvEbzedrM&vssid=3981:5xzmyA1f8SH8qM)
+![Alt text](https://cdn.thenewstack.io/media/2022/11/fb6f0845-github-lab.jpg)
 
 ## Project Overview
 
