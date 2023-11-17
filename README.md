@@ -1,6 +1,6 @@
 # GitHub Insights
 
-![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr5t1WJUATaTVR3FvcNqqeXYOhT1_kX7MZ1fGIDRlNtjLbxRGCrmkVXw_CN7ZkTDpoC9w&usqp=CAU)
+![Alt text](https://www.zbw-mediatalk.eu/wp-content/uploads/2015/09/github-cover.jpg)
 
 ## Project Overview
 
